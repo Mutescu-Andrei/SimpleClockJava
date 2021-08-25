@@ -1,0 +1,1 @@
+"G:\JavaJava\bin\appletviewer" Clock.htm>error.txt 2>&1

@@ -1,0 +1,1 @@
+"G:\JavaJava\bin\javac" Clock.java>error.txt 2>&1
